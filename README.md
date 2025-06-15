@@ -11,9 +11,10 @@ A minimal URL shortener built with Node.js, Express, and MongoDB to convert long
 ⚙️ Installation
 
 git clone https://github.com/Amlendu1611/url-shortener.git
-cd url-shortener
-npm install
-npm start
+
+< cd url-shortener
+< npm install
+< npm start
 
 ⚙️ API Endpoints
 
